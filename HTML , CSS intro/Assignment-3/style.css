@@ -9,13 +9,14 @@ h2{
     color:aqua;
 }
 #underline  {
-word-spacing: 2em;
+text-align: center;
 }
 a {
     color:red;
 }
-div,h1,h5{
+header{
     text-align: center;
+
 }
 #div2{
 background-color: black;
