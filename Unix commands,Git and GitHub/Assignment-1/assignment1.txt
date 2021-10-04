@@ -1,0 +1,22 @@
+1)/c/Users/Mahmood Hussain/Documents
+2)-rw-r--r-- 1 Mahmood Hussain 197121  35 Sep 28 20:19  assignment1.txt
+  -rw-r--r-- 1 Mahmood Hussain 197121 402 Mar 16  2021  desktop.ini
+3)ls -lS
+ 
+
+
+
+
+
+                                     my-folder
+                         |---------------|-----------------|
+                      commands.txt     dummy           current-file-structure.txt
+                                          |
+                              |------------------------|
+                           hello.txt              Practice
+                                                         |
+                                               |-------------------------|
+                                          source                        destination
+                                             |                            |
+                                           index.html                   index.html
+

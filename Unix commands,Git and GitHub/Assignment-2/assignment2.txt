@@ -1,0 +1,5 @@
+Yesterday I completed the course titled "First day at GitHub" by the official GitHub training team.I thoroughly enjoyed the couse and learnt how and why majority of the software developers use GitHub for building software whilst collaborating with other developers.I also observed how the caption of GitHub-"The place where the world builds software" is correctly justified.Walking through the course I learnt and did the following topics ,concepts and activities
+--Learnt the basic GitHub workflow and performed the activity to illustrate the basic GitHub workflow.
+--Became aware about github pages which hosts static pages and performed an activity to host my static portfolio website on GitHub pages.
+--Learnt the Markdown language which is a markup language used in comments,issues, pull requests and .md files
+--Equipped myself with knowledge to push a local repository to GitHub and performed an activity to push a local repository to GitHub

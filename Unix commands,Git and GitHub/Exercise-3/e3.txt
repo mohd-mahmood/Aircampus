@@ -1,0 +1,8 @@
+(!)Git is a version control system.We need it to keep track of changes we make to our directories.We can make multiple versions(release) of our directories
+and each version(release) is kept as a snapshot(commit) by git
+(2)commits are the states/snapshots of our directories that is saved by git.WE can come back to these states/snapshots if we later need to 
+(3)git keeps track of changes using commit graph
+(4)the various stages in versioning using git are:
+(1)working tree(unstaged area)
+(2)staging area
+(3)committed area

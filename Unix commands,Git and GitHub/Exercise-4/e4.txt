@@ -1,0 +1,8 @@
+1)mkdir-->used to make a directory
+2)cd-->used to change the dirctory
+3)git init-->used to initialize git in a directory
+4)touch-->used to create a file
+5)git status-->used to check the status of working tree
+6)git add <filename>-->used to add a file to the staging area
+7)git commit -m "commit-message"-->used to take a snapshot of the directory with added changes
+8)git log-->used to view the history of commits

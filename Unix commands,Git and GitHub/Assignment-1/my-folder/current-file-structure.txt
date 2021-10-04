@@ -1,0 +1,11 @@
+                         my-folder
+                         |---------------|-----------------|
+                      commands.txt     dummy           current-file-structure.txt
+                                          |
+                              |------------------------|
+                           hello.txt              Practice
+                                                         |
+                                               |-------------------------|
+                                          source                        destination
+                                             |                            |
+                                           index.html                   index.html

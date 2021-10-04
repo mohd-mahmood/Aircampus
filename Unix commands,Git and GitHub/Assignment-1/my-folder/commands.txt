@@ -1,0 +1,15 @@
+pwd-->prints present working directory
+ls-->lists the contents of the present working directory
+cd-->it's used to change the working directory
+--help-->it's used to find information about a command
+head-->it's used to read first 10 lines of a file
+tail-->it's used to read last 10 lines of a file
+cat-->it's used to display concatenated content of two or more files
+nano-->it's used to open a file with nano editor
+grep-->it's used to find piece of text in a given file
+rm-->deletes a file
+clear-->clears the terminal screen
+mkdir-->makes a directory
+mv-->moves  a file from source to destination
+cp-->copies a file from one location to other
+rmdir-->deletes a folder

@@ -1,0 +1,16 @@
+body    {
+    background-color:rgb(6, 6, 97);
+
+}
+h1,p,h5,h3,h4{
+    color: whitesmoke;
+}
+h2{
+    color:aqua;
+}
+#underline  {
+word-spacing: 2em;
+}
+a {
+    color:red;
+}

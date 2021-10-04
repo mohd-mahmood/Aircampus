@@ -1,0 +1,7 @@
+branching is used to work in different contexts on same repository.Suppose we as a team of developers are developing a website.A developer
+A is working on improving the UI feature of the website.Another developer B is working on bugfix feature.It would get messy if both developers work
+on the same copy of the directory.Thats where the use of branching comes in.So,basically branching is used to work on the different copies of the same
+directory.Also it would help us in maintaining fair copy of the directory(in which only satisfactory work is saved) using the master branch
+In order to merge a branch into another use the following steps:
+make sure that you are on the branch you want to merge changes into
+then run the command git merge <name of the branch you want to merge>
