@@ -1,21 +1,23 @@
-#div1{
-    text-align: center;
-}
-#navigationbar{
- background-color: black;
- display:block;
- height: 25px;
- text-align: center;
-}
-.content{
- display:block;
-
-}
-section{
+#div1 {
     text-align: center;
 }
 
-footer{
+.navigationbar {
+    background-color: black;
+    display: block;
+    height: 25px;
+    text-align: center;
+}
+
+.content {
+    display: block;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
     text-align: center;
     background-color: orangered;
 }
