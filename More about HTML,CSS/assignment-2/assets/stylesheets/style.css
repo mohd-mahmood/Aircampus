@@ -1,0 +1,33 @@
+.div1 {
+    background-color: silver;
+}
+
+.navigationbar {
+    background-color: orange;
+    text-align: center;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
+}
+
+.footerdiv {
+    display: inline-block;
+}
+
+.body1 {
+    background-color: palegreen;
+}
+
+.div2 {
+    display: inline-block;
+}
+
+.body2 {
+    background-color: pink;
+}
+
+.body3 {
+    background-color: saddlebrown;
+}
