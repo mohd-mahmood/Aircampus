@@ -140,11 +140,6 @@ table {
     text-align: center;
 }
 
-footer {
-    background-color: orange;
-    text-align: center;
-}
-
 .body1 {
     background-color: palegreen;
 }
@@ -155,4 +150,9 @@ footer {
 
 .body3 {
     background-color: saddlebrown;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
 }
