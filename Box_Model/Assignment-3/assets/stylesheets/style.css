@@ -161,7 +161,7 @@ h2 {
     margin: 50px auto;
     height: 100px;
     border: 15px solid orchid;
-    outline: 5px solid orange;
+    outline: 15px solid orange;
     box-shadow: 0 0 0 15px aquamarine, 0 0 0 30px aquamarine;
     text-align: center;
 }
