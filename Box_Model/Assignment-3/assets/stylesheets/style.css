@@ -165,41 +165,32 @@ h2 {
     box-shadow: 0 0 0 15px aquamarine, 0 0 0 30px aquamarine;
     text-align: center;
 }
+.sec1 .div2 .divspace .circle1,
+.sec1 .div2 .divspace .circle2,
+.sec1 .div2 .divspace .circle3,
+.sec1 .div2 .divspace .circle4 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
 
+}
 .circle1 {
-    height: 25px;
-    width: 25px;
     background-color: aquamarine;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
-}
-
+} 
 .circle2 {
-    height: 25px;
-    width: 25px;
-    background-color: orange;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
-}
+     background-color: orange;
+   }
 
 .circle3 {
-    height: 25px;
-    width: 25px;
-    background-color: orchid;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
-}
+   background-color: orchid;
+   }
 
 .circle4 {
-    height: 25px;
-    width: 25px;
+ 
     background-color: seagreen;
-    border-radius: 50%;
-    display: inline-block;
-    vertical-align: middle;
+
 }
 
 .name {
@@ -210,61 +201,55 @@ h2 {
     display: inline-block;
     margin: 0px 15px;
 }
-
-.div3 {
-    width: 600px;
-    height: 120px;
+.div3,.div4,.div5{
+    width:600px;
     border: 1px solid black;
     margin: 20px auto;
-    text-align: center;
+    border: 1px solid black;
     font-size: 0;
+
 }
 
-.container1 {
-    display: inline-block;
+.div3 {
+    
+    text-align: center;
+
+}
+
+.container1,.container2,.container3,.container4 {
     background-color: gray;
     width: 180px;
-    height: 100px;
     margin: 10px;
+    height:100px;
+    box-sizing: border-box;
+}
+.container1{
+    display:inline-block;
+
 }
 
 .div4 {
-    width: 600px;
-    border: 1px solid black;
-    margin: 20px auto;
+    
     text-align: start;
-    font-size: 0;
 
 }
 
 .container2 {
     display: inline-block;
-    background-color: gray;
-    width: 180px;
-    height: 100px;
-    margin: 10px;
     border:1px solid black;
 }
 
+.container3{
+   display: block;
+    border:1px solid black;
+
+}
 
 .div5 {
-    width: 600px;
-    height: 120px;
-    border: 1px solid black;
-    margin: 20px auto;
     text-align: start;
-    font-size: 0px;
     
 }
 .container4 {
     display: inline-block;
-    background-color: gray;
-    box-sizing: border-box;
-    width: 180px;
-    height: 100px;
-    margin: 10px;
     border: 1px solid black;
-
-    
-
 }
