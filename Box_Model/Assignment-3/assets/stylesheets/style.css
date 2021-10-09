@@ -165,15 +165,13 @@ h2 {
     box-shadow: 0 0 0 15px aquamarine, 0 0 0 30px aquamarine;
     text-align: center;
 }
-.sec1 .div2 .divspace .circle1,
-.sec1 .div2 .divspace .circle2,
-.sec1 .div2 .divspace .circle3,
-.sec1 .div2 .divspace .circle4 {
+.circle {
     height: 25px;
     width: 25px;
     border-radius: 50%;
     display: inline-block;
     vertical-align: middle;
+    margin-left: 10px;
 
 }
 .circle1 {
@@ -193,15 +191,7 @@ h2 {
 
 }
 
-.name {
-    vertical-align: middle;
-}
-
-.divspace {
-    display: inline-block;
-    margin: 0px 15px;
-}
-.div3,.div4,.div5{
+.div{
     width:600px;
     border: 1px solid black;
     margin: 20px auto;
@@ -216,7 +206,7 @@ h2 {
 
 }
 
-.container1,.container2,.container3,.container4 {
+.container {
     background-color: gray;
     width: 180px;
     margin: 10px;
