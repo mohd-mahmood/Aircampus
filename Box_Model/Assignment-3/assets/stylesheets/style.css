@@ -252,16 +252,17 @@ h2 {
     height: 120px;
     border: 1px solid black;
     margin: 20px auto;
-    text-align: center;
+    text-align: start;
     font-size: 0px;
     
 }
 .container4 {
     display: inline-block;
     background-color: gray;
+    box-sizing: border-box;
     width: 180px;
     height: 100px;
-    margin: 9px;
+    margin: 10px;
     border: 1px solid black;
 
     
