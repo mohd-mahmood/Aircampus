@@ -83,6 +83,9 @@ header{
 main{
     margin-top: 80px;
 }
+.article{
+    scroll-margin-top: 5rem;
+}
 .article-col{
     float:left;
     width:40%;
@@ -124,4 +127,33 @@ main{
     width:50%;
     height:150px;
     margin: 50px 25%;
+}
+.footer{
+    background-color: blueviolet;
+    height: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.footer a{
+    font-size: 20px;
+    margin:20px;
+    
+}
+.button{
+    height: 80px;
+    width:80px;
+    border-radius:50%;
+    
+    position:fixed;
+    bottom:15px;
+    right:15px;
+    text-align:center;
+    background-color: crimson;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+a{
+  
+    text-decoration: none;
 }
