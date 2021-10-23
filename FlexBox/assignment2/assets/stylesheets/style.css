@@ -154,14 +154,14 @@ p{
 	  width:85%;
 } 
 button{
-width:120px;
-height:40px;
-margin:2px 8px;
-background-color: black;
-color:white;
-border-radius: 10px;
-border:none;
-outline: none;
+	width:120px;
+	height:40px;
+	margin:2px 8px;
+	background-color: black;
+	color:white;
+	border-radius: 10px;
+	border:none;
+	outline: none;
 }
 footer{
 	background-color: rgb(248, 182, 59);
